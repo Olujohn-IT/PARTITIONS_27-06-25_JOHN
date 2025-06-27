@@ -12,6 +12,7 @@ Windows includes a built-in partition manager called Disk Management. This tool 
 8. Then select Finish.
 9. Repeat steps 3-8 to create the second and the third partitions by assigning different letters at step 6
 
+[Microsoft Support](https://support.microsoft.com/en-us/windows/disk-management-in-windows-ad88ba19-f0d3-0809-7889-830f63e94405)
 
  ![Partition](https://github.com/user-attachments/assets/f27c2970-0d08-4dfe-a020-6e339386f355)
 `Parition D, E and G created on Module4 virtual machine`
