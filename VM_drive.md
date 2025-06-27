@@ -19,5 +19,7 @@ Before starting this task, ensure that the virtual machine is switched off espec
 12. When the Hard Drive settings page for the newly created drive opens, click OK.
 13. Start the virtual machine. When the VM starts, it will automatically recognize the new drive, but the new storage must be manually added the virtual appliance.
 
+[Exinda Network Orchestrator](https://manuals.gfi.com/en/exinda/help/content/exos/virtual-appliances/hyper-v/hyperv-locate-vhd.htm)
+
 ![VHD](https://github.com/user-attachments/assets/4824c334-c1b7-4945-b2df-f67d17a25c9c)
 `20Gb additional drive added to Module4 virtual machine`
